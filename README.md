@@ -205,7 +205,7 @@ token.transfer_from(&env, &spender, &user, &recipient, &25_0000000);
 
 ## 📄 License
 
-- [Buen dia Builders Project](https://www.buendiabuilders.com/)
+- [Buen dia Builders Project](https://github.com/BuenDia-Builders/codigofutura)
 
 ## 🤝 Contributing
 
